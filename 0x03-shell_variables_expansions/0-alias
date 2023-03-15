@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls = 'rm ~' merge the branches it is accidently
+alias = 'rm ~'
